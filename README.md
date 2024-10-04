@@ -5,7 +5,7 @@
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeZheng777&layout=compact&theme=codeSTACKr">
 </a>
 
-![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
 ![](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=fff)
 ![](https://img.shields.io/badge/-Pytorch-ee4c2c?style=flat-square&logo=Pytorch&logoColor=000)
 ![](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=CMake&logoColor=fff)
