@@ -3,7 +3,7 @@
 <a href="#">
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=cmpute&show_icons=true&theme=codeSTACKr&hide_rank=true"> -->
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeZheng777&layout=donut&theme=codeSTACKr">
- <img  src="https://github-profile-trophy.vercel.app/?username=MikeZheng777&theme=onedark">
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=MikeZheng777&show_icons=true&theme=radical">
 
  
 </a>
