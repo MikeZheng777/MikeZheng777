@@ -10,7 +10,7 @@ I’m currently working on **Multi-Robot Coordination Problems**.
 
 <a href="#">
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeZheng777&layout=donut&theme=codeSTACKr">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=MikeZheng777&show_icons=true&theme=radical">
+ <img src="https://github-readme-stats.vercel.app/api?username=MikeZheng777&show_icons=true&theme=radical">
 </a>
 
 
