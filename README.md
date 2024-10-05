@@ -10,7 +10,7 @@ I work on **Multi-Robot Coordination Problems**.
 
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeZheng777&layout=donut&theme=codeSTACKr&count_private=true")](https://github.com/arribass/github-readme-stats)
-https://github-readme-stats.vercel.app/api?username=MikeZheng777&show_icons=true&theme=codeSTACKr&count_private=true">
+[![](https://github-readme-stats.vercel.app/api?username=MikeZheng777&show_icons=true&theme=codeSTACKr&count_private=true")](https://github.com/arribass/github-readme-stats)
 
 
 
