@@ -1,6 +1,5 @@
 
 ## Hi, my name is Han 👋
-I work on **Multi-Robot Coordination Problems**...
 
 ![](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=fff)
 ![](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=fff)
