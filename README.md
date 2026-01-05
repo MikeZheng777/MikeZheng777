@@ -7,10 +7,6 @@
 ![](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=CMake&logoColor=fff)
 ![](https://img.shields.io/badge/-VSCode-e34f26?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
 
-<a href="#">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeZheng777&layout=compact&theme=codeSTACKr">
-<!--  <img src="https://github-readme-stats.vercel.app/api?username=MikeZheng777&show_icons=true&theme=codeSTACKr&count_private=true"> -->
-</a>
 
 
 
